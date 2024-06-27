@@ -1,4 +1,4 @@
-module ihg.com/m/v2
+module test.com/m/v2
 
 go 1.22.2
 
