@@ -1,0 +1,173 @@
+{
+    "tests": [
+      {
+        "test_id": "01",
+        "test_name": "vmx_network",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" }
+        ]   
+      },
+      {
+        "test_id": "02",
+        "test_name": "claim_vmx",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" }
+        ]   
+      },
+      {
+        "test_id": "03",
+        "test_name": "inbound_firewall_rules",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "03" }
+        ]   
+      },
+      {
+        "test_id": "04",
+        "test_name": "firewall_l3_rules",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "04" }
+        ]   
+      },
+      {
+        "test_id": "05",
+        "test_name": "syslog_servers",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "05" }
+        ]   
+      },
+      {
+        "test_id": "06",
+        "test_name": "webhooks_http",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "06" }
+        ]   
+      },
+      {
+        "test_id": "07",
+        "test_name": "data_meraki_devices",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" },
+            { "dir": "07" }
+        ]   
+      },
+      {
+        "test_id": "08",
+        "test_name": "data_firmware_upgrades",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" },
+            { "dir": "08" }
+        ]   
+      },
+      {
+        "test_id": "09",
+        "test_name": "meraki_device_name",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" },
+            { "dir": "09" }
+        ]   
+      },
+      {
+        "test_id": "10",
+        "test_name": "meraki_device_tag",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" },
+            { "dir": "10" }
+        ]   
+      },
+      {
+        "test_id": "11",
+        "test_name": "vmx_authentication_token",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" },
+            { "dir": "11" }
+        ]   
+      },
+      {
+        "test_id": "12",
+        "test_name": "single_lan",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" },
+            { "dir": "12" }
+        ]   
+      },
+      {
+        "test_id": "13",
+        "test_name": "alert_settings",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "06" },
+            { "dir": "13" }
+        ]   
+      },
+      {
+        "test_id": "14",
+        "test_name": "vpn_firewall_rules",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "14" }
+        ]   
+      },
+      {
+        "test_id": "15",
+        "test_name": "third_party_vpnpeers",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "15" }
+        ]   
+      },
+      {
+        "test_id": "16",
+        "test_name": "data_meraki_networks",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "16" }
+        ]   
+      },
+      {
+        "test_id": "17",
+        "test_name": "firware_upgrades",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" },
+            { "dir": "08" },
+            { "dir": "17" }
+        ]   
+      },
+      {
+        "test_id": "18",
+        "test_name": "vpn_site_to_site",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" },
+            { "dir": "12" },
+            { "dir": "18" }
+        ]   
+      }
+    ]
+}

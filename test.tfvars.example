@@ -1,0 +1,4 @@
+organization_id = "REDACTED"
+meraki_debug = "true"
+network_name = "Test network"
+device_name = "Test device"

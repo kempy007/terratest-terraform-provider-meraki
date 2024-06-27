@@ -1,0 +1,64 @@
+{
+    "tests": [
+ 
+      {
+        "test_id": "03",
+        "test_name": "inbound_firewall_rules",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "03" }
+        ]   
+      },
+
+      {
+        "test_id": "13",
+        "test_name": "alert_settings",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "06" },
+            { "dir": "13" }
+        ]   
+      },
+      {
+        "test_id": "14",
+        "test_name": "vpn_firewall_rules",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "14" }
+        ]   
+      },
+      {
+        "test_id": "15",
+        "test_name": "third_party_vpnpeers",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "15" }
+        ]   
+      },
+
+      {
+        "test_id": "17",
+        "test_name": "firware_upgrades",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" },
+            { "dir": "08" },
+            { "dir": "17" }
+        ]   
+      },
+      {
+        "test_id": "18",
+        "test_name": "vpn_site_to_site",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" },
+            { "dir": "02" },
+            { "dir": "12" },
+            { "dir": "18" }
+        ]   
+      }
+    ]
+}

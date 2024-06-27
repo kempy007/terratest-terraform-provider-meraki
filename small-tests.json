@@ -1,0 +1,12 @@
+{
+    "tests": [
+      {
+        "test_id": "01",
+        "test_name": "vmx_network",
+        "folders": [
+            { "dir": "00" },
+            { "dir": "01" }
+        ]   
+      }
+    ]
+}
